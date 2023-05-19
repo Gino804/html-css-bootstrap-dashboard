@@ -30,6 +30,12 @@
     background-color:blue;
 }
 
+.col
+{
+    height:50px;
+    border:2px dashed white;
+}
+
 /* Main */
 
 main
