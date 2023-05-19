@@ -11,9 +11,14 @@
     height:80px;
 }
 
-.logo
+.logo-small
 {
     height:50px;
+}
+
+.logo 
+{
+    height:30px;
 }
 
 .fa-bell
@@ -141,5 +146,10 @@ section
     main 
     {
         height:calc(100% - 120px);
+    }
+
+    .page-header .navbar-collapse
+    {
+        margin-right:0px;
     }
 }
