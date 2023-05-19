@@ -9,7 +9,43 @@
 .page-header
 {
     height:80px;
-    background-color:lightgray;
+}
+
+.logo
+{
+    height:50px;
+}
+
+.fa-bell
+{
+    color:orange;
+}
+
+.searchbar
+{
+    background-color:#E5E5E5;
+}
+
+.search-button
+{
+    margin-right:-40px;
+    z-index:1;
+}
+
+.page-header .navbar-collapse
+{
+    margin-right:-40px;
+}
+
+.dropstart .dropdown-toggle::before
+{
+    display:none;
+}
+
+.dropstart .dropdown-menu[data-bs-popper]
+{
+    top:30px;
+    left:-150px;
 }
 
 /* Sidebar */
