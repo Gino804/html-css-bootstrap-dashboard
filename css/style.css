@@ -33,7 +33,7 @@
 .col
 {
     height:50px;
-    border:2px dashed white;
+    border:2px dashed greenyellow;
 }
 
 /* Main */
@@ -42,6 +42,32 @@ main
 {
     height:calc(100% - 300px);
     overflow:auto;
+}
+
+section 
+{
+    border:1px solid gray;
+    margin-top:20px;
+}
+
+#classes
+{
+    height:300px;
+}
+
+#faq
+{
+    height:150px;
+}
+
+#todo
+{
+    height:100px;
+}
+
+#report
+{
+    height:400px;
 }
 
 /* Responsive */
