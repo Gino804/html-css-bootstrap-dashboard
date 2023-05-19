@@ -69,13 +69,21 @@
 {
     height:300px;
     width:100%;
-    background-color:blue;
+    background-color:#1B72E8;
 }
 
-.col
+.add-student
 {
-    height:50px;
-    border:2px dashed greenyellow;
+    width:40px;
+    height:40px;
+    line-height:32px;
+}
+
+.header-label
+{
+    background-color:#165BBA;
+    border-radius:20px;
+    padding:0 6px;
 }
 
 /* Main */
@@ -152,5 +160,10 @@ section
     .page-header .navbar-collapse
     {
         margin-right:0px;
+    }
+
+    .header-label
+    {
+        font-size:12px;
     }
 }
