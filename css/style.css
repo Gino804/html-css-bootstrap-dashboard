@@ -58,8 +58,9 @@
 .sidebar
 {
     flex-basis:80px;
-    background-color:darkblue;
+    background-color:#051E34;
     height:calc(100vh - 80px);
+    background-image:url('../img/sidebar-bg.png')
 }
 
 /* Main header */
