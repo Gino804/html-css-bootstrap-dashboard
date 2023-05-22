@@ -53,6 +53,11 @@
     left:-150px;
 }
 
+.offcanvas.offcanvas-end
+{
+    width:100vw;
+}
+
 /* Sidebar */
 
 .sidebar
@@ -76,7 +81,6 @@
 {
     width:40px;
     height:40px;
-    line-height:32px;
 }
 
 .main-header .badge
@@ -144,5 +148,10 @@ main
     .header-label
     {
         font-size:12px;
+    }
+
+    .offcanvas.offcanvas-end
+    {
+        width:50vw;
     }
 }
