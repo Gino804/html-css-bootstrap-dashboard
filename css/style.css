@@ -92,17 +92,6 @@ main
     overflow:auto;
 }
 
-section 
-{
-    border:1px solid gray;
-    margin-top:20px;
-}
-
-#classes
-{
-    height:300px;
-}
-
 #faq
 {
     height:150px;
@@ -116,6 +105,13 @@ section
 #report
 {
     height:400px;
+}
+
+/* Classes */
+
+.class-avatar
+{
+    height:40px;
 }
 
 /* Responsive */
