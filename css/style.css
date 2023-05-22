@@ -79,11 +79,9 @@
     line-height:32px;
 }
 
-.header-label
+.main-header .badge
 {
     background-color:#165BBA;
-    border-radius:20px;
-    padding:0 6px;
 }
 
 /* Main */
